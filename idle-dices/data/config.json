@@ -17,10 +17,10 @@
         "main": [
             {
                 "startD": 2,
-                "cost": 10,
+                "cost": 0,
                 "value": 0,
                 "costIncrease": 1.08,
-                "valueIncrease": 1,
+                "valueIncrease": 100,
                 "initialLevel": 1,
                 "ascentIncrease": 100000
             },
